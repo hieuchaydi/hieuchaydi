@@ -19,3 +19,6 @@ I am a passionate web developer skilled in Flask, Django, and databases like SQL
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hieuchaydi&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align='center'>ICTU<h2>
+
+<img src="https://raw.githubusercontent.com/thuan2172001/thuan2172001/output/snake.svg" alt="Snake animation" />

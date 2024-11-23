@@ -1,8 +1,6 @@
 <h2 align='center'>ICTU<h2>
 
 <img src="https://raw.githubusercontent.com/thuan2172001/thuan2172001/output/snake.svg" alt="Snake animation" />
-# 💫About Me :
-I am a passionate web developer skilled in Flask, Django, and databases like SQLite3, PostgreSQL, and SQL Server. I have experience with HTML, CSS, and JavaScript to build responsive, user-friendly interfaces. My goal is to become an expert web developer, creating scalable and impactful web applications.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/hiếu-nguyễn-6a4932317/) 

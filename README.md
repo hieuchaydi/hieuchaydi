@@ -1,4 +1,4 @@
-<h2 align='center'>ICTU<h2>
+<h2 align='center'><h2>
 
 <img src="https://raw.githubusercontent.com/thuan2172001/thuan2172001/output/snake.svg" alt="Snake animation" />
 

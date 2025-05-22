@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nguyễn Văn Hiếu (hieuchaydi)</h1>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/thuan2172001/thuan2172001/output/snake.svg" alt="Snake animation" />

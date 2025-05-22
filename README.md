@@ -60,10 +60,3 @@
 
 ---
 
-<p align="center" style="margin-top: 30px;">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=hieuchaydi&icon=0&color=0" alt="Visitor Count" style="border: 2px solid #ddd; border-radius: 8px; padding: 6px 12px;" />
-  </a>
-  <br/>
-  <small style="color: #666;">Visitors Count</small>
-</p>

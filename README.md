@@ -47,7 +47,7 @@ Git | GitHub | GitHub Actions | Visual Studio Code
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](#) <!-- Add your LinkedIn URL here -->
+- [LinkedIn](https://www.linkedin.com/in/hiếu-nguyễn-6a4932317) <!-- Add your LinkedIn URL here -->
 - [LeetCode](#) <!-- Add your LeetCode URL here -->
 - [ICTU Profile](http://laptrinh.ictu.edu.vn/user/DTC225200481) <!-- Add your university profile URL here -->
 

@@ -49,7 +49,7 @@ Git | GitHub | GitHub Actions | Visual Studio Code
 
 - [LinkedIn](#) <!-- Add your LinkedIn URL here -->
 - [LeetCode](#) <!-- Add your LeetCode URL here -->
-- [ICTU Profile](#) <!-- Add your university profile URL here -->
+- [ICTU Profile](http://laptrinh.ictu.edu.vn/user/DTC225200481) <!-- Add your university profile URL here -->
 
 ## ⚡ Fun Facts
 

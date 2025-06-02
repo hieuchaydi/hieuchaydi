@@ -3,11 +3,11 @@
 -->
 
 <h1 align="center">
-  Hi there, I'm Hieu Nguyen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+  Hi, I'm Hieu Nguyen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
 <p align="center">
-  <b>Backend Developer | Curious Engineer | Gamer at Heart</b>
+  <b>Backend Developer | Inquisitive Engineer | Gamer at Heart</b>
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Third-year IT student at Thai Nguyen University of Information and Communication Technology (ICTU).**
-- 🚀 **Backend Web Developer** with a passion for building efficient & scalable systems.
-- ⚡ **Always curious** about how things work under the hood.
-- 🎮 **Gamer** & side project tinkerer.
-- 🤝 Love to connect, collaborate, and share knowledge with the community!
+- 🎓 &nbsp;Third-year IT student at Thai Nguyen University of Information and Communication Technology (ICTU).
+- 🚀 &nbsp;Backend Developer passionate about building efficient, scalable systems.
+- ⚡ &nbsp;Driven by curiosity for how things work under the hood and always up for learning new tech.
+- 🎮 &nbsp;Gamer and side-project enthusiast—always tinkering and trying out new ideas.
+- 🤝 &nbsp;Love connecting, collaborating, and sharing knowledge with the tech community!
 
 ---
 
@@ -96,29 +96,29 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**snake-ai**](https://github.com/hieuchaydi/snake-ai) | Let AI learn and play Snake, built with Python. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [**flappy-bird-dqn**](https://github.com/hieuchaydi/flappy-bird-dqn) | Applying reinforcement learning to master Flappy Bird. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [**snake-ai**](https://github.com/hieuchaydi/snake-ai) | AI that learns and plays Snake, built with Python. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [**flappy-bird-dqn**](https://github.com/hieuchaydi/flappy-bird-dqn) | Reinforcement learning to master Flappy Bird. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [**bot-telegram-upload-drive**](https://github.com/hieuchaydi/bot-telegram-upload-drive) | A handy Telegram bot for uploading files to Google Drive. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white) |
-| [**lk-social-media-python**](https://github.com/hieuchaydi/lk-social-media-python) | Crawling and analyzing social media with Python. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [**soketwithpython**](https://github.com/hieuchaydi/soketwithpython) | Demoing socket programming and networking basics. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white) |
-| [**chatbot-flask-react-**](https://github.com/hieuchaydi/chatbot-flask-react-) | A friendly chatbot built using Flask and React. | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| [**lk-social-media-python**](https://github.com/hieuchaydi/lk-social-media-python) | Crawling and analyzing social media data with Python. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [**soketwithpython**](https://github.com/hieuchaydi/soketwithpython) | Socket programming and networking basics demo. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white) |
+| [**chatbot-flask-react-**](https://github.com/hieuchaydi/chatbot-flask-react-) | Friendly chatbot using Flask and React. | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
 
 ---
 
 ## 🌱 Fun Facts & More About Me
 
-- 🏫 Studying Information Technology at Thai Nguyen University of Information and Communication Technology (ICTU).
-- 🧩 I love solving coding puzzles, hackathons, and exploring new tech.
-- 🌟 Always learning, always building.
+- 🏫 Currently studying Information Technology at ICTU.
+- 🧩 Enjoy solving coding puzzles, joining hackathons, and exploring new technologies.
+- 🌟 Lifelong learner—always building, always growing.
 - 💬 “Let’s connect, collaborate, and code something awesome together!”
 
 ---
 
-## 📬 Contact Me
+## 📬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hiếu-nguyễn-6a4932317">
-    <img src="https://img.shields.io/badge/LinkedIn-hiếu-nguyễn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Hiếu_Nguyễn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:n.van.hieucntt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-hieuchaydi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
@@ -129,5 +129,5 @@
 </p>
 
 <p align="center">
-  <i>✨ Thanks for visiting my profile! If you like what you see, let’s connect! ✨</i>
+  <i>✨ Thanks for stopping by my profile! If you like what you see, let’s connect and build something great together. ✨</i>
 </p>

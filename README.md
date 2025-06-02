@@ -105,13 +105,14 @@
 
 ---
 
+# 👨‍💻 About Me
+
 ## 🌱 Fun Facts & More About Me
 
-- 🏫 Currently studying Information Technology at ICTU.
-- 🧩 Enjoy solving coding puzzles, joining hackathons, and exploring new technologies.
-- 🌟 Lifelong learner—always building, always growing.
+- 🏫 Currently studying Information Technology at ICTU.  
+- 🧠 Passionate about logical problems and algorithm challenges — regularly practice on [LeetCode](https://leetcode.com/hieuand2004).  
+- 🌟 A curious and dedicated learner, always eager to grow and improve.  
 - 💬 “Let’s connect, collaborate, and code something awesome together!”
-
 ---
 
 ## 📬 Let's Connect

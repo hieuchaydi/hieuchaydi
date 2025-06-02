@@ -120,7 +120,7 @@
   <a href="https://www.linkedin.com/in/hiếu-nguyễn-6a4932317">
     <img src="https://img.shields.io/badge/LinkedIn-hiếu-nguyễn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:hieuchaydi@gmail.com">
+  <a href="mailto:n.van.hieucntt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-hieuchaydi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="http://laptrinh.ictu.edu.vn/user/DTC225200481">

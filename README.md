@@ -27,6 +27,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 &nbsp;Third-year IT student at Thai Nguyen University of Information and Communication Technology (ICTU).
+- 🎂 &nbsp;Born in **2004** — always growing, learning, and improving every day.
 - 🚀 &nbsp;Backend Developer passionate about building efficient, scalable systems.
 - ⚡ &nbsp;Driven by curiosity for how things work under the hood and always up for learning new tech.
 - 🎮 &nbsp;Gamer and side-project enthusiast—always tinkering and trying out new ideas.

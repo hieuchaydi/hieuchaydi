@@ -131,5 +131,5 @@
 </p>
 
 <p align="center">
-  <i>✨ Thanks for stopping by my profile! If you like what you see, let’s connect and build something great together. ✨</i>
+  <i>✨ Thank you for visiting my profile! If you find my projects interesting, feel free to give them a star ⭐. If you’d like to connect or collaborate, don’t hesitate to reach out—let’s build something awesome together! ✨</i>
 </p>

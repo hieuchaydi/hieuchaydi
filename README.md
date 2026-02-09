@@ -91,20 +91,7 @@
   </tr>
 </table>
 
----
 
-## 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieuchaydi&show_icons=true&theme=tokyonight&hide_border=true" alt="hieuchaydi's GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieuchaydi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150">
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hieuchaydi&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
-  <br/>
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 

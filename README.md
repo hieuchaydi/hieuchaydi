@@ -40,8 +40,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top"><b>Frameworks</b></td>
+    <td align="center" valign="top"><b>Frameworks & Backend</b></td>
     <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
@@ -49,12 +50,20 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top"><b>AI & Data Science</b></td>
+    <td align="center" valign="top"><b>AI & LLM</b></td>
     <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><b>Data Processing</b></td>
+    <td>
       <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white"/>
@@ -69,12 +78,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top"><b>Tools</b></td>
+    <td align="center" valign="top"><b>Tools & IDE</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Cursor-00D084?logo=cursor&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -88,9 +98,11 @@
 
 - 🏫 Currently studying Information Technology at ICTU.  
 - 🧠 Passionate about logical problems, AI, and algorithm challenges — regularly practice on [LeetCode](https://leetcode.com/hieuand2004).  
-- 🤖 Enjoy building projects with PyTorch, TensorFlow, and scikit-learn.
+- 🤖 Enjoy building projects with PyTorch, TensorFlow, scikit-learn, and modern LLM frameworks like LangChain & LangGraph.
+- ⚡ Experienced in building fast and scalable APIs with FastAPI.
+- 💻 Love using Cursor for an enhanced coding experience.
 - 🌟 A curious and dedicated learner, always eager to grow and improve.  
-- 💬 “Let’s connect, collaborate, and code something awesome together!”
+- 💬 "Let's connect, collaborate, and code something awesome together!"
 ---
 
 ## 📬 Let's Connect
@@ -108,5 +120,5 @@
 </p>
 
 <p align="center">
-  <i>✨ Thank you for visiting my profile! If you find my projects interesting, feel free to give them a star ⭐. If you’d like to connect or collaborate, don’t hesitate to reach out—let’s build something awesome together! ✨</i>
+  <i>✨ Thank you for visiting my profile! If you find my projects interesting, feel free to give them a star ⭐. If you'd like to connect or collaborate, don't hesitate to reach out—let's build something amazing together!</i>
 </p>

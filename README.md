@@ -24,18 +24,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 &nbsp;Third-year IT student at Thai Nguyen University of Information and Communication Technology (ICTU).
-- 🎂 &nbsp;Born in **2004** — always growing, learning, and improving every day.
-- 🚀 &nbsp;Backend Developer passionate about building efficient, scalable systems.
-- 🤖 &nbsp;AI and Machine Learning enthusiast—love experimenting with neural networks and data.
-- ⚡ &nbsp;Driven by curiosity for how things work under the hood and always up for learning new tech.
-- 🎮 &nbsp;Gamer and side-project enthusiast—always tinkering and trying out new ideas.
-- 🤝 &nbsp;Love connecting, collaborating, and sharing knowledge with the tech community!
-
----
-
 ## 🛠️ Tech Stack
 
 <table>
@@ -93,18 +81,6 @@
 
 
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**snake-ai**](https://github.com/hieuchaydi/snake-ai) | AI that learns and plays Snake, built with Python and PyTorch. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
-| [**PhishGuard**](https://github.com/hieuchaydi/PhishGuard.git) | Anti-phishing project for detecting phishing websites using machine learning. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) |
-| [**shop**](https://github.com/hieuchaydi/shop) | Online shop project built with Django (Backend) & React (Frontend). | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) |
-| [**lk-social-media-python**](https://github.com/hieuchaydi/lk-social-media-python) | Crawling and analyzing social media data with Python. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
-| [**soketwithpython**](https://github.com/hieuchaydi/soketwithpython) | Socket programming and networking basics demo. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white) |
-| [**chatbot-flask-react-**](https://github.com/hieuchaydi/chatbot-flask-react-) | Friendly chatbot using Flask and React. | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
-
----
 
 # 👨‍💻 About Me
 

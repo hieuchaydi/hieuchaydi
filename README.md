@@ -22,9 +22,9 @@
 
 ## 🚀 Featured Projects
 
-- **[Project 1](https://github.com/hieuchaydi/your-project-1)** - Brief description
-- **[Project 2](https://github.com/hieuchaydi/your-project-2)** - Brief description
-- **[Project 3](https://github.com/hieuchaydi/your-project-3)** - Brief description
+- **[RepoBrain](https://github.com/hieuchaydi/RepoBrain)** - Local codebase indexing and search with hybrid search, flow tracing, and impact analysis
+- **[MemoryFeed](https://github.com/hieuchaydi/MemoryFeed)** - Local-first social memory search engine with browser capture and hybrid AI retrieval
+- **[DecisionGraph](https://github.com/hieuchaydi/DecisionGraph)** - Engineering decision memory system capturing evidence from GitHub/Slack/Jira with CLI/API/MCP support
 
 ---
 

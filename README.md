@@ -1,124 +1,46 @@
-<!--
-🌟 Professional & Modern GitHub Profile README for Hieu Nguyen 🌟
--->
+# Hi, I'm Hieu Nguyen! 👋
 
-<h1 align="center">
-  Hi, I'm Hieu Nguyen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-</h1>
-
-<p align="center">
-  <b>Backend Developer | Inquisitive Engineer | Gamer at Heart</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hiếu-nguyễn-6a4932317">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="http://laptrinh.ictu.edu.vn/user/DTC225200481">
-    <img src="https://img.shields.io/badge/ICTU%20Profile-005BBB?logo=academia&logoColor=white" />
-  </a>
-  <!-- Add your LeetCode link when available -->
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-6A1B9A"/>
-  <img src="https://komarev.com/ghpvc/?username=hieuchaydi&color=green"/>
-</p>
+**Backend Developer | AI Enthusiast | Always Learning**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" valign="top"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/> 
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><b>Frameworks & Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><b>AI & LLM</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><b>Data Processing</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><b>Tools & IDE</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Cursor-00D084?logo=cursor&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+**Languages:** Python • C# • C++ • Java • JavaScript • HTML5 • CSS3
 
+**Frameworks:** FastAPI • .NET • Django • Flask
 
+**AI/ML:** LangChain • PyTorch • TensorFlow • Scikit-learn • OpenCV
 
+**Data:** Pandas • NumPy • Matplotlib
 
-# 👨‍💻 About Me
+**Databases:** PostgreSQL • SQL Server • SQLite
 
-## 🌱 Fun Facts & More About Me
+**Tools:** VS Code • Cursor • Git • GitHub Actions
 
-- 🏫 Currently studying Information Technology at ICTU.  
-- 🧠 Passionate about logical problems, AI, and algorithm challenges — regularly practice on [LeetCode](https://leetcode.com/hieuand2004).  
-- 🤖 Enjoy building projects with PyTorch, TensorFlow, scikit-learn, and modern LLM frameworks like LangChain & LangGraph.
-- ⚡ Experienced in building fast and scalable APIs with FastAPI.
-- 💻 Love using Cursor for an enhanced coding experience.
-- 🌟 A curious and dedicated learner, always eager to grow and improve.  
-- 💬 "Let's connect, collaborate, and code something awesome together!"
 ---
 
-## 📬 Let's Connect
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hiếu-nguyễn-6a4932317">
-    <img src="https://img.shields.io/badge/LinkedIn-Hiếu_Nguyễn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:n.van.hieucntt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hieuchaydi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="http://laptrinh.ictu.edu.vn/user/DTC225200481">
-    <img src="https://img.shields.io/badge/ICTU%20Profile-005BBB?style=flat&logo=academia&logoColor=white"/>
-  </a>
-</p>
+- **[Project 1](https://github.com/hieuchaydi/your-project-1)** - Brief description
+- **[Project 2](https://github.com/hieuchaydi/your-project-2)** - Brief description
+- **[Project 3](https://github.com/hieuchaydi/your-project-3)** - Brief description
 
-<p align="center">
-  <i>✨ Thank you for visiting my profile! If you find my projects interesting, feel free to give them a star ⭐. If you'd like to connect or collaborate, don't hesitate to reach out—let's build something amazing together!</i>
-</p>
+---
+
+## 📚 About Me
+
+- 🏫 Studying IT at ICTU
+- 🤖 Building with FastAPI, PyTorch, and LangChain
+- ⚡ Passionate about algorithms and AI
+- 💬 Let's collaborate and build something awesome!
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiếu-nguyễn-6a4932317)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:n.van.hieucntt@gmail.com)
+[![ICTU Profile](https://img.shields.io/badge/ICTU-005BBB?logo=academia&logoColor=white)](http://laptrinh.ictu.edu.vn/user/DTC225200481)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hieuchaydi&color=green)

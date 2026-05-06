@@ -6,25 +6,30 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • C# • C++ • Java • JavaScript • HTML5 • CSS3
+**Languages:** 🐍 Python • 🟦 C# • ⚙️ C++ • ☕ Java • 📜 JavaScript • 🌐 HTML5 • 🎨 CSS3
 
-**Frameworks:** FastAPI • .NET • Django • Flask
+**Frameworks:** ⚡ FastAPI • 📦 .NET • 🚀 Django • 🧪 Flask
 
-**AI/ML:** LangChain • PyTorch • TensorFlow • Scikit-learn • OpenCV
+**AI/ML:** 🔗 LangChain • 🔥 PyTorch • 📊 TensorFlow • 🤖 Scikit-learn • 👁️ OpenCV
 
-**Data:** Pandas • NumPy • Matplotlib
+**Data:** 🐼 Pandas • 🔢 NumPy • 📈 Matplotlib
 
-**Databases:** PostgreSQL • SQL Server • SQLite
+**Databases:** 🐘 PostgreSQL • 🗄️ SQL Server • 💾 SQLite
 
-**Tools:** VS Code • Cursor • Git • GitHub Actions
+**Tools:** 💻 VS Code • ✨ Cursor • 📝 Git • ⚙️ GitHub Actions
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[RepoBrain](https://github.com/hieuchaydi/RepoBrain)** - Local codebase indexing and search with hybrid search, flow tracing, and impact analysis
-- **[MemoryFeed](https://github.com/hieuchaydi/MemoryFeed)** - Local-first social memory search engine with browser capture and hybrid AI retrieval
-- **[DecisionGraph](https://github.com/hieuchaydi/DecisionGraph)** - Engineering decision memory system capturing evidence from GitHub/Slack/Jira with CLI/API/MCP support
+### 🧠 [RepoBrain](https://github.com/hieuchaydi/RepoBrain)
+Chỉ mục và tìm kiếm codebase cục bộ với hybrid search, flow tracing và impact analysis
+
+### 💭 [MemoryFeed](https://github.com/hieuchaydi/MemoryFeed)
+Search engine tìm kiếm bộ nhớ xã hội với AI retrieval, capture trang web và giải quyết thông tin tức thời
+
+### 📊 [DecisionGraph](https://github.com/hieuchaydi/DecisionGraph)
+Hệ thống quản lý quyết định kỹ thuật, thu thập chứng cứ từ GitHub/Slack/Jira với CLI/API/MCP
 
 ---
 
@@ -39,8 +44,8 @@
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiếu-nguyễn-6a4932317)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:n.van.hieucntt@gmail.com)
-[![ICTU Profile](https://img.shields.io/badge/ICTU-005BBB?logo=academia&logoColor=white)](http://laptrinh.ictu.edu.vn/user/DTC225200481)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiếu-nguyễn-6a4932317)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.van.hieucntt@gmail.com)
+[![ICTU Profile](https://img.shields.io/badge/ICTU-005BBB?style=for-the-badge&logo=academia&logoColor=white)](http://laptrinh.ictu.edu.vn/user/DTC225200481)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hieuchaydi&color=green)

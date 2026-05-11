@@ -61,10 +61,3 @@ CLI for security & reliability checks on MCP tools before AI agents call them. V
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=hieuchaydi&theme=tokyonight&hide_border=true&show_icons=true&border_radius=12&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieuchaydi&theme=tokyonight&hide_border=true&layout=compact&border_radius=12&langs_count=6"/>
-</div>
